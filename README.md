@@ -1,5 +1,5 @@
 <h2 align="center" >
-Hola mi nombre es Erika Ríos Suesca 👋
+Hola soy Erika Ríos Suesca 👋
 </h2>
 
 - 🔭 Actualmente estoy trabajando en mi aprendizaje de desarrollo web front-end.
