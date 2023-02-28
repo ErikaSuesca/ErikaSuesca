@@ -14,7 +14,7 @@ Hola soy Erika Ríos Suesca 👋
 
 <h3 align="left">Mis proyectos</h3>
 
-[![GitHub erikasuesca](https://img.shields.io/github/followers/erikasuesca?label=follow&style=social)](https://github.com/ErikaSuesca)
+[![GitHub erikasuesca](https://img.shields.io/github/erikasuesca?label&style=social)](https://github.com/ErikaSuesca)
 
 
 ⭐️ From [@erikasuesca](https://github.com/ErikaSuesca)
