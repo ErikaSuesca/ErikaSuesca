@@ -10,11 +10,8 @@ Hola soy Erika Ríos Suesca 👋
 ------
 <h3 align="left">Mis redes sociales</h3>
 
-[![Linkedin: ErikaSuesca](https://img.shields.io/badge/-ErikaSuesca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-rios-suesca/)](https://www.linkedin.com/in/erika-rios-suesca/)
+[![Linkedin: ErikaSuesca](https://img.shields.io/badge/-ErikaSuesca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-rios-suesca/)](https://www.linkedin.com/in/erika-rios-suesca/) [![GitHub erikasuesca](https://img.shields.io/github/followers/ErikaSuesca?label=follow&style=social)](https://github.com/ErikaSuesca)
 
-<h3 align="left">Mis proyectos</h3>
-
-[![GitHub erikasuesca](https://img.shields.io/github/erikasuesca?label&style=social)](https://github.com/ErikaSuesca)
-
+-------
 
 ⭐️ From [@erikasuesca](https://github.com/ErikaSuesca)
