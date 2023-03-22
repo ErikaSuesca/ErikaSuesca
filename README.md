@@ -5,7 +5,7 @@ Hola soy Erika Ríos Suesca 👋
 - 🔭 Actualmente estoy trabajando en mi aprendizaje de desarrollo web front-end.
 - 🌱 Actualmente estoy aprendiendo sobre JavaScript, Node.js, React.
 - 👯 Busco colaborar en proyectos que aumenten mi aprendizaje.
-- 📬 Me puedes contactar erikasuesca1234@gmail.com
+- 📬 Me puedes contactar por medio de mis redes sociales
 
 ------
 <h3 align="left">Mis redes sociales</h3>
